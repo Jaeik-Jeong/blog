@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jaeik Jeong"
+  name             : 
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Jaeik Jeong received his B.S., M.S., and Ph.D. degree in Electronic Engineering from Sogang University in 2015, 2017, and 2022, respectively. He is currently a researcher with Energy ICT Research Section, Electronics and Telecommunications Research Institute, Daejeon, South Korea."
+  bio              : "Jaeik Jeong received his B.S., M.S., and Ph.D. degree in Electronic Engineering from Sogang University in 2015, 2017, and 2022, respectively. He is currently a researcher with Energy ICT Research Section, Electronics and Telecommunications Research Institute, Daejeon, South Korea (jaeik1210@etri.re.kr)."
   location         : 
-  email            : "jaeik1210@etri.re.kr"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
