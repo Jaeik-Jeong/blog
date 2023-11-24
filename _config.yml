@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jaeik Jeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Jaeik Jeong received his B.S., M.S., and Ph.D. degree in Electronic Engineering from Sogang University in 2015, 2017, and 2022, respectively. He is currently a researcher with Energy ICT Research Section, Electronics and Telecommunications Research Institute, Daejeon, South Korea."
   location         : "Somewhere"
   email            :
   links:
