@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Jaeik Jeong"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Jaeik Jeong"
+description              : "Jaeik Jeong received his B.S., M.S., and Ph.D. degree in Electronic Engineering from Sogang University in 2015, 2017, and 2022, respectively. He is currently a researcher with Energy ICT Research Section, Electronics and Telecommunications Research Institute, Daejeon, South Korea."
 url                      : "https://jaeik1210.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
