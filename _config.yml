@@ -106,7 +106,7 @@ analytics:
 author:
   name             : 
   avatar           : "https://github.com/Jaeik-Jeong/blog/blob/master/jaeik.jpg"
-  bio              : "Jaeik Jeong received his B.S., M.S., and Ph.D. degree in NICE Lab, Electronic Engineering from Sogang University in 2015, 2017, and 2022, respectively. He is currently a researcher with Energy ICT Research Section, Electronics and Telecommunications Research Institute, Daejeon, South Korea."
+  bio              : "Jaeik Jeong received his B.S., M.S., and Ph.D. degree in [NICE Lab, Electronic Engineering from Sogang University](https://nice.sogang.ac.kr) in 2015, 2017, and 2022, respectively. He is currently a researcher with Energy ICT Research Section, Electronics and Telecommunications Research Institute, Daejeon, South Korea."
   location         : 
   email            : 
   links:
@@ -116,6 +116,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=Y_5ebhUAAAAJ&hl=ko"
+    - label: "ETRI KSP"
+      icon: "fas fa-fw fa-link"
+      url: "https://ksp.etri.re.kr/ksp/user/read?id=07186"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
