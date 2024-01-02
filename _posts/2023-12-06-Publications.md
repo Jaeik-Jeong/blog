@@ -5,7 +5,7 @@ title: "Publications"
 
 The following papers are a list of the academic papers I have authored up to now. My research interests are deep reinforcement learning, generative model, smart grid, and energy data analytics.
 
-# __International Journal Papers__<br/>
+# __SCI(E) journal papers__<br/>
 
 [Denoising Masked Autoencoder-Based Missing Imputation within Constrained Environments for Electric Load Data](https://www.mdpi.com/1996-1073/16/24/7933)<br/>
 __J. Jeong__, T. Y. Ku and W. K. Park, __Energies__, Vol.16, No. 24, pp.1-18, Dec. 2023<br/><br/>
@@ -35,6 +35,12 @@ K. Park, __J. Jeong__, D. Kim and H. Kim, __IEEE Access__, Vol. 8, pp. 206039-20
 __J. Jeong__ and H. Kim, __Energies__, Vol. 12, No. 23, pp. 1-14, Nov. 2019<br/><br/>
 
 # __International Conference Papers__<br/>
+
+[Deep Reinforcement Learning based Real-time Renewable Energy Bidding with Battery Control](https://github.com/Jaeik-Jeong/DeepBid/blob/main/Award_KICS_2022.jpg)<br/>
+__J. Jeong__, S. W. Kim and H. Kim, 2022 KICS Winter Conference (Best Paper Award)<br/><br/>
+
+[Deep Reinforcement Learning based Renewable Energy Error Compensable Forecasting](https://github.com/Jaeik-Jeong/ECF/blob/main/Award_KICS_2020.jpg)<br/>
+__J. Jeong__ and H. Kim, 2020 KICS Fall Conference (Director Award)<br/><br/>
 
 [Deep Reinforcement Learning based Renewable Energy Error Compensable Forecasting](https://www.climatechange.ai/papers/iclr2020/2)<br/>
 __J. Jeong__ and H. Kim, International Conference on Learning Representations (ICLR) 2020 Workshop: Climate Change AI, 2020, pp. 1-5<br/><br/>
