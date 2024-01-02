@@ -5,7 +5,7 @@ title: "Publications"
 
 The following papers are a list of the academic papers I have authored up to now. My research interests are deep reinforcement learning, generative model, smart grid, and energy data analytics.
 
-# __SCI(E) journal papers__<br/>
+# __SCI(E) Journal Papers__<br/>
 
 [Denoising Masked Autoencoder-Based Missing Imputation within Constrained Environments for Electric Load Data](https://www.mdpi.com/1996-1073/16/24/7933)<br/>
 __J. Jeong__, T. Y. Ku and W. K. Park, __Energies__, Vol.16, No. 24, pp.1-18, Dec. 2023<br/><br/>
@@ -34,7 +34,7 @@ K. Park, __J. Jeong__, D. Kim and H. Kim, __IEEE Access__, Vol. 8, pp. 206039-20
 [Multi-Site Photovoltaic Forecasting Exploiting Space-Time Convolutional Neural Network](https://www.mdpi.com/1996-1073/12/23/4490)<br/>
 __J. Jeong__ and H. Kim, __Energies__, Vol. 12, No. 23, pp. 1-14, Nov. 2019<br/><br/>
 
-# __International Conference Papers__<br/>
+# __Conference Papers & Awards__<br/>
 
 [Deep Reinforcement Learning based Real-time Renewable Energy Bidding with Battery Control](https://github.com/Jaeik-Jeong/DeepBid/blob/main/Award_KICS_2022.jpg)<br/>
 __J. Jeong__, S. W. Kim and H. Kim, 2022 KICS Winter Conference (Best Paper Award)<br/><br/>
