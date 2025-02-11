@@ -229,13 +229,6 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Order
-collections:
-  myposts:
-    output: true
-    sort_by: order
-
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
