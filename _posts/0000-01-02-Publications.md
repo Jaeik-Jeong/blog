@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Publications"
-order: 1
 ---
 
 The following papers are a list of the international academic papers I have authored up to now. My research interests are deep reinforcement learning, generative model, smart grid, and energy data analytics.
