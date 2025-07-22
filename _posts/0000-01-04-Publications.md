@@ -55,4 +55,4 @@ K. Park, __J. Jeong__ and H. Kim, International Conference on Learning Represent
 # __Unexamined__<br/>
 
 Privacy-preserving Labeling-free Occupancy Counting Sensor based on ToF Camera and Clustering<br/>
-__J. Jeong__ and W. K. Park, subimitted to __ETRI Journal__ (under review) <br/><br/>
+__J. Jeong__ and W. K. Park, subimitted to __ETRI Journal__ <br/><br/>
