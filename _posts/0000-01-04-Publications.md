@@ -8,7 +8,7 @@ The following papers are a list of the international academic papers I have auth
 # __International Journal Papers__<br/>
 
 [Privacy-preserving Labeling-free Occupancy Counting Sensor based on ToF Camera and Clustering](https://onlinelibrary.wiley.com/journal/22337326)<br/>
-__J. Jeong__ and W. K. Park, __ETRI Journal__, Oct. 2025 (to appear) <br/><br/>
+__J. Jeong__ and W. K. Park, __ETRI Journal__, Vol.47, No. 5, pp.1-14, Oct. 2025 (to appear) <br/><br/>
 
 [Exploring the Preference for Discrete over Continuous Reinforcement Learning in Energy Storage Arbitrage](https://www.mdpi.com/1996-1073/17/23/5876)<br/>
 __J. Jeong__, T. Y. Ku and W. K. Park, __Energies__, Vol.17, No. 23, pp.1-17, Nov. 2024<br/><br/>
