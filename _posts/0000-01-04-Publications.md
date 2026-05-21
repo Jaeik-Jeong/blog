@@ -58,4 +58,4 @@ K. Park, __J. Jeong__ and H. Kim, International Conference on Learning Represent
 # __Unexamined__<br/>
 
 The Accuracy-Efficiency Paradox: Quantifying Net Energy Loss in On-Device Energy Forecasting<br/>
-__J. Jeong__, T. Y. Ku and W. K. Park, submitted to International Conference on Ubiquitous and Future Networks (ICUFN) 2026 <br/><br/>
+__J. Jeong__, T. Y. Ku and W. K. Park, submitted to International Conference on Mobile • Military • Maritime IT Convergence (ICMIC) 2026 <br/><br/>
