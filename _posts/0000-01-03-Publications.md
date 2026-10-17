@@ -44,8 +44,7 @@ __J. Jeong__ and H. Kim, __Energies__, Vol. 12, No. 23, pp. 1-14, Nov. 2019<br/>
 
 # __International Conference Papers__<br/>
 
-[The Accuracy-Efficiency Paradox: Quantifying Net Energy Loss in On-Device Energy Forecasting]
-(https://ieeexplore.ieee.org/abstract/document/11708729/)<br/>
+[The Accuracy-Efficiency Paradox: Quantifying Net Energy Loss in On-Device Energy Forecasting](https://ieeexplore.ieee.org/abstract/document/11708729/)<br/>
 __J. Jeong__, T. Y. Ku and W. K. Park, International Conference on Mobile • Military • Maritime IT Convergence (ICMIC) 2026, 2026, pp. 203-206<br/><br/>
 
 [Time-Varying Constraint-Aware Reinforcement Learning for Energy Storage Control](https://www.climatechange.ai/papers/iclr2024/16)<br/>
